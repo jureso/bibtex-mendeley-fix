@@ -4,4 +4,6 @@ The script fixes .bib file produced by Mendeley so that bibtex interprets the mo
 
 ## Example
 
+```
 python bibtex_capitalize_months.py <bibtex file>
+```
